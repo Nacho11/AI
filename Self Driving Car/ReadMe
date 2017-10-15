@@ -1,0 +1,6 @@
+This project contains the code for a self driving car artificial intelligent agent. The starter code was provided by Udemy.
+The sdc.py file was implemented by me and contains comments on the different concepts used to develop the agent. The map_commented.py
+file consists of the map file with comments of what each line does.
+Used PyTorch and Kivy opensource libraries.
+The last_brain.pth file is one of the loaded models.
+Running - python map.py
